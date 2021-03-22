@@ -1,5 +1,5 @@
 
-###Welkommen! 
+###Welkommen! ###
 ##My Name is Michael, and this is my GitHub for MakeIt-Mike.
 #Contact: mike.isaac.jones@gmail.com
 I am U.S. based, play guitar in a small-town-good-for-nothing band, and speak a little German (not sure how that helps immediately in the open source world...)

@@ -1,4 +1,4 @@
-Welkommen! 
+Willkommen! 
 
 My Name is Michael, and this is my GitHub for MakeIt-Mike.
 Contact: mike.isaac.jones@gmail.com

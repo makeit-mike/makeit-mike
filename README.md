@@ -1,7 +1,7 @@
+Welkommen! 
 
-###Welkommen! ###
-##My Name is Michael, and this is my GitHub for MakeIt-Mike.
-#Contact: mike.isaac.jones@gmail.com
+My Name is Michael, and this is my GitHub for MakeIt-Mike.
+Contact: mike.isaac.jones@gmail.com
 I am U.S. based, play guitar in a small-town-good-for-nothing band, and speak a little German (not sure how that helps immediately in the open source world...)
 
 In terms of skill, I would rank myself as follows (In order of strongest to weakest):
@@ -16,7 +16,7 @@ In terms of skill, I would rank myself as follows (In order of strongest to weak
   9. Excel (yes, I am better at EVERYTHING ELSE moreso than I am competent in Excel)
   10. //Honestly I just thought having 10 items would look professional, perhaps I should have thought this through. 
     
-#I graduated with a Bachelors of Science in Mathematics, minor in Computer Science. 
+I graduated with a Bachelors of Science in Mathematics, minor in Computer Science. 
 
 I am only 1/2 classes short on finishing out the major to CompSci, 
 but when the company that I interned for offered me a full time Full-Stack Developer postition, I quickly shifted my priorities.

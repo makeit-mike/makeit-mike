@@ -1,8 +1,10 @@
 Willkommen! 
 
-My Name is Michael, and this is my GitHub for MakeIt-Mike.
+My name is Michael, and this is my GitHub for MakeIt-Mike.
+
 Contact: mike.isaac.jones@gmail.com
-I am U.S. based, play guitar in a small-town-good-for-nothing band, and speak a little German (not sure how that helps immediately in the open source world...)
+
+I am U.S. based, I play guitar in a small-town-good-for-nothing band, and speak a little German (not sure how that helps immediately in the open source world...)
 
 In terms of skill, I would rank myself as follows (In order of strongest to weakest):
   1. C#, SQL (.NET)

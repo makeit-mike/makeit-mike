@@ -5,10 +5,10 @@ Contact: mike.isaac.jones@gmail.com
 I am U.S. based, play guitar in a small-town-good-for-nothing band, and speak a little German (not sure how that helps immediately in the open source world...)
 
 In terms of skill, I would rank myself as follows (In order of strongest to weakest):
-  1. C#, SQL, .NET
-  2. JS, HTML, CSS, SCSS
-  3. Swift
-  4. Java
+  1. C#, SQL (.NET)
+  2. JS, HTML, CSS, SCSS (Web Dev)
+  3. Swift (Apple Dev)
+  4. Java 
   5. C++
   6. Python
   7. COBOL

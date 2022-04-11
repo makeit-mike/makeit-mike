@@ -1,16 +1,52 @@
-Contact: mike.isaac.jones@gmail.com
 
-Hello there, my name is Michael but I also go by Mike. I like to code.
+# makeit-mike
+<p>Contact: mike.isaac.jones@gmail.com</p>
+<p>Locaton: US </p>
+<p>Preffered Work Location: Home </p>
+<p>Preffered Languages: {Haskell, Clojure, C#, F#, PSQL } </p>
+<br />
 
-My favourite languages are C#, Haskell, and C++. However, recently I have been enjoying Rust and Swift.
+# Work Experience
 
-By trade I am a dotnet full stack developer, primarily working in dotnetcore, but also maintain many full .Net Framework applications. 
+<p> 
+I am currently a Software Engineer, working in dotnet. 
+(C#, MS SQL Server)
+</p>
+<p> I have extensive work history (3 years) in:</p>
+<ul>
+  <li> ASP NET (aspx, mvc, services). </li>
+  <li> ASP NET CORE (mvc, razor, webAPI, services). </li>
+  <li> Blazor (razor). </li>
+</ul>
 
-I absolutely love C#, but do not like being tied down to windows by nature of design. So I try and branch out whenever possible.
+<br>
 
-I am also very familiar with HTML, CSS, JS/TS, SQL.
-Moderately familiar with Python, Java, and PostgreSQL.
+<p> However I also am reasonably capable in the following languages </p>
+<ul>
+  <li> Swift </li>
+  <li> C++ </li>
+  <li> Haskell </li>
+  <li> Java </li>
+  <li> JavaScript (react, vue, DOM) </li>
+  <li> Clojure </li>
+  <li> Rust </li>
+  <li> Python </li>
+</ul>
 
-As for frameworks, I am familiar with ASP.NET (Framework,Core,MVC), Blazor, React, SwiftUI, JQuery..
-
-I am pretty okay with GitHub, but most of the time I use Azure DevOps professionally to manage my work projects.
+<p> And, I am comfortable in the following tools<p>
+<ul>
+  <li> Docker </li>
+  <li> Azure DevOps </li>
+  <li> Git (& github) </li>
+  <br />
+  <li> Visual Studio Code </li>
+  <li> Visual Studio </li>
+  <li> VIM (NeoVim) </li>
+  <li> EMACS (Doom) </li>
+  <li> Eclispe </li>
+  <li> N++ </li>
+   <br />
+  <li> DBeaver </li>
+  <li> SQL Server </li>
+  <li> IIS </li>
+</ul>

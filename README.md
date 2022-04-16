@@ -27,7 +27,7 @@ I am currently a Software Engineer, working in dotnet.
   <li> C++ </li>
   <li> Haskell </li>
   <li> Java </li>
-  <li> JavaScript (react, vue, DOM) </li>
+  <li> JavaScript (react, DOM, ......technically JQuery and AJAX :( ) </li>
   <li> Clojure </li>
   <li> Rust </li>
   <li> Python </li>
